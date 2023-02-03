@@ -1,0 +1,146 @@
+continue
+delete
+break
+sum
+long
+string
+continue
+goto
+cast
+unsigned
+void
+friend
+xyz
+break
+typedef    extern
+unsigned
+long
+firstvar
+case
+template
+signed
+friend
+template
+if
+myvar
+extern
+case
+break
+sum
+template
+signed
+return
+enum
+else
+double
+char
+char
+float  private    case
+this
+break
+string
+void
+new
+float  private    case
+goto
+nullptr
+class
+myvar
+cast
+enum
+char
+firstvar    extern
+enum
+static
+operator private
+age
+try
+auto
+signed
+private
+switch
+int
+myvar
+float
+union
+while
+long    struct
+class
+long    struct
+diagonal
+default
+delete
+static
+extern
+switch
+extern
+struct
+double
+start
+start
+diagonal
+return
+break
+if
+static
+extern
+void
+string start
+double
+string
+protected   volatile   void template
+extern
+xyz
+string start
+public   void  float
+extern
+throw
+template 
+cast
+operator private
+break
+char
+sum
+do
+class
+break
+sizeof
+class
+struct
+break
+double
+do
+double
+
+extern
+break
+static
+const
+sizeof
+myvar
+nullptr
+do
+protected
+do
+friend
+template
+char
+template
+nullptr
+struct
+myvar
+signed
+sizeof
+double
+start
+
+register
+debug
+char
+operator private
+private new
+class
+float  private    case
+template
+volatile
+for
